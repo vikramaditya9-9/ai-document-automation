@@ -4,7 +4,8 @@ pydantic==2.5.0
 pydantic-settings==2.1.0
 python-dotenv==1.0.0
 sqlalchemy==2.0.23
-psycopg==3.3.4alembic==1.13.1
+psycopg==3.3.4
+alembic==1.13.1
 python-multipart==0.0.6
 passlib[bcrypt]==1.7.4
 email-validator==2.1.0
